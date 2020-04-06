@@ -12,6 +12,10 @@ body {
     overflow-x: hidden;
 }
 
+h4 {
+    color: #00a8b4;
+}
+
 .img-logo {
     color: #cccccc;
     font-size: 25px;
