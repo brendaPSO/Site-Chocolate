@@ -1,7 +1,11 @@
 <h1 align="center">
   Chocolates & CIA
 </h1>
-<p>Aplicando o Bootstrap v4</p>
+
+<h3 align="center">Aplicando o Bootstrap v4
+</h3>
+
+<br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
